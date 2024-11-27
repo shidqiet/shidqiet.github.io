@@ -15,11 +15,17 @@ In June 2024, I was awarded the fully funded [Indonesia Endowment Fund for Educa
 
 Publications
 ===
-<br/>**Diabetic Retinopathy Classification Using a Hybrid and Efficient MobileNetV2-SVM Model** <br/>  
-**Taufiqurrahman, S.**, Handayani, A., Hermanto, B. R., & Mengko, T. L. E. R. *2020 IEEE REGION 10 CONFERENCE (TENCON)*, November 2020. [\[DOI\]](https://doi.org/10.1109/TENCON50793.2020.9293739) [\[Link\]](https://ieeexplore.ieee.org/document/9293739) <br/>  
+- **Diabetic Retinopathy Classification Using a Hybrid and Efficient MobileNetV2-SVM Model**  
+  **Taufiqurrahman, S.**, Handayani, A., Hermanto, B. R., & Mengko, T. L. E. R.  
+  *2020 IEEE REGION 10 CONFERENCE (TENCON)*, November 2020.  
+  [\[DOI\]](https://doi.org/10.1109/TENCON50793.2020.9293739) [\[Link\]](https://ieeexplore.ieee.org/document/9293739)  
 
-<br/>**Free Spectral Range and Quality Factor Enhancement of Multi-Path Optical Ring Resonator for Sensor Application** <br/>  
-**Taufiqurrahman, S.**, Dicky, G., Estu, T. T., Daud, P., Mahmudin, D., & Anshori, I. *AIP Conference Proceedings*, September 2020. [\[DOI\]](https://doi.org/10.1063/5.0014960) [\[Link\]](https://pubs.aip.org/aip/acp/article-abstract/2256/1/020003/962798/Free-spectral-range-and-quality-factor-enhancement) <br/>  
+- **Free Spectral Range and Quality Factor Enhancement of Multi-Path Optical Ring Resonator for Sensor Application**  
+  **Taufiqurrahman, S.**, Dicky, G., Estu, T. T., Daud, P., Mahmudin, D., & Anshori, I.  
+  *AIP Conference Proceedings*, September 2020.  
+  [\[DOI\]](https://doi.org/10.1063/5.0014960) [\[Link\]](https://pubs.aip.org/aip/acp/article-abstract/2256/1/020003/962798/Free-spectral-range-and-quality-factor-enhancement)  
 
-<br/>**Sensitivity Enhancement of Silicon-on-Insulator Multipath Ring Resonator Using Gold Nanodisk for Sensor Application** <br/>  
-Dicky, G., **Taufiqurrahman, S.**, Estu, T. T., Wijayanto, Y. N., Manurung, R. V., Mahmudin, D., Anshori, I., & Daud, P. *Makara Journal of Science*, September 2020. [\[DOI\]](https://doi.org/10.7454/mss.v24i3.1199) [\[Link\]](https://scholarhub.ui.ac.id/science/vol24/iss3/5/) <br/>  
+- **Sensitivity Enhancement of Silicon-on-Insulator Multipath Ring Resonator Using Gold Nanodisk for Sensor Application**  
+  Dicky, G., **Taufiqurrahman, S.**, Estu, T. T., Wijayanto, Y. N., Manurung, R. V., Mahmudin, D., Anshori, I., & Daud, P.  
+  *Makara Journal of Science*, September 2020.  
+  [\[DOI\]](https://doi.org/10.7454/mss.v24i3.1199) [\[Link\]](https://scholarhub.ui.ac.id/science/vol24/iss3/5/)  
